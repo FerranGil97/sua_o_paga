@@ -1,0 +1,50 @@
+{
+  "@@locale": "es",
+  "appName": "SuaOPaga",
+  "slogan": "Suda o paga las consecuencias",
+  "entrarGoogle": "Entrar con Google",
+  "ranking": "Ranking",
+  "entrenar": "Entrenar",
+  "castig": "Castigo",
+  "historial": "Historial",
+  "crearGrup": "Crear un grupo nuevo",
+  "unirseGrup": "Unirse a un grupo",
+  "nomGrup": "Nombre del grupo",
+  "codiInvitacio": "Código de invitación",
+  "crearBtn": "Crear grupo",
+  "unirseBtn": "Unirse",
+  "elsMeusGrups": "Mis grupos",
+  "membres": "{n} miembros",
+  "@membres": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "tancarSessio": "Cerrar sesión",
+  "castigSetmana": "Castigo de esta semana",
+  "minimMinuts": "Mínimo 30 min para contar un entrenamiento",
+  "diesEntrenant": "{n} días entrenados",
+  "@diesEntrenant": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "laTevaSetmana": "Tu semana",
+  "quinEsport": "¿Qué deporte?",
+  "durada": "Duración",
+  "registrarEntreno": "Registrar entrenamiento",
+  "comptaMsg": "¡Cuenta!",
+  "noComptaMsg": "Mínimo 30 min",
+  "votarCastig": "Vota el castigo",
+  "proposarCastig": "Proponer un castigo nuevo",
+  "afegirProposta": "Añadir propuesta",
+  "rankingTotal": "Ranking total",
+  "historialSetmanes": "Historial por semanas",
+  "perdedor": "Perdedor",
+  "dies": "días",
+  "jaRegistratAvui": "¡Ya has registrado un entrenamiento válido hoy!",
+  "entrenoPetit": "¡Mínimo 30 minutos para contar!",
+  "seleccionaEsport": "¡Selecciona un deporte!",
+  "entrenoRegistrat": "¡Entrenamiento registrado! +1 día al ranking",
+  "setmana": "Semana"
+}

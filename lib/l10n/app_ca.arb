@@ -1,0 +1,50 @@
+{
+  "@@locale": "ca",
+  "appName": "SuaOPaga",
+  "slogan": "Sua o paga les conseqüències",
+  "entrarGoogle": "Entrar amb Google",
+  "ranking": "Ranking",
+  "entrenar": "Entrenar",
+  "castig": "Càstig",
+  "historial": "Historial",
+  "crearGrup": "Crear un grup nou",
+  "unirseGrup": "Unir-se a un grup",
+  "nomGrup": "Nom del grup",
+  "codiInvitacio": "Codi d'invitació",
+  "crearBtn": "Crear grup",
+  "unirseBtn": "Unir-se",
+  "elsMeusGrups": "Els meus grups",
+  "membres": "{n} membres",
+  "@membres": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "tancarSessio": "Tancar sessió",
+  "castigSetmana": "Càstig d'aquesta setmana",
+  "minimMinuts": "Mínim 30 min per comptar un entrenament",
+  "diesEntrenant": "{n} dies entrenats",
+  "@diesEntrenant": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "laTevaSetmana": "La teva setmana",
+  "quinEsport": "Quin esport?",
+  "durada": "Durada",
+  "registrarEntreno": "Registrar entreno",
+  "comptaMsg": "Compta!",
+  "noComptaMsg": "Mínim 30 min",
+  "votarCastig": "Vota el càstig",
+  "proposarCastig": "Proposar un càstig nou",
+  "afegirProposta": "Afegir proposta",
+  "rankingTotal": "Ranking total",
+  "historialSetmanes": "Historial per setmanes",
+  "perdedor": "Perdedor",
+  "dies": "dies",
+  "jaRegistratAvui": "Ja has registrat un entreno vàlid avui!",
+  "entrenoPetit": "Mínim 30 minuts per comptar!",
+  "seleccionaEsport": "Selecciona un esport!",
+  "entrenoRegistrat": "Entreno registrat! +1 dia al ranking",
+  "setmana": "Setmana"
+}

@@ -1,0 +1,50 @@
+{
+  "@@locale": "en",
+  "appName": "SuaOPaga",
+  "slogan": "Sweat or pay the consequences",
+  "entrarGoogle": "Sign in with Google",
+  "ranking": "Ranking",
+  "entrenar": "Workout",
+  "castig": "Penalty",
+  "historial": "History",
+  "crearGrup": "Create a new group",
+  "unirseGrup": "Join a group",
+  "nomGrup": "Group name",
+  "codiInvitacio": "Invitation code",
+  "crearBtn": "Create group",
+  "unirseBtn": "Join",
+  "elsMeusGrups": "My groups",
+  "membres": "{n} members",
+  "@membres": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "tancarSessio": "Sign out",
+  "castigSetmana": "This week's penalty",
+  "minimMinuts": "Minimum 30 min for a workout to count",
+  "diesEntrenant": "{n} days trained",
+  "@diesEntrenant": {
+    "placeholders": {
+      "n": { "type": "int" }
+    }
+  },
+  "laTevaSetmana": "Your week",
+  "quinEsport": "Which sport?",
+  "durada": "Duration",
+  "registrarEntreno": "Log workout",
+  "comptaMsg": "Counts!",
+  "noComptaMsg": "Min 30 min",
+  "votarCastig": "Vote the penalty",
+  "proposarCastig": "Propose a new penalty",
+  "afegirProposta": "Add proposal",
+  "rankingTotal": "All-time ranking",
+  "historialSetmanes": "Weekly history",
+  "perdedor": "Loser",
+  "dies": "days",
+  "jaRegistratAvui": "You already logged a valid workout today!",
+  "entrenoPetit": "Minimum 30 minutes to count!",
+  "seleccionaEsport": "Select a sport!",
+  "entrenoRegistrat": "Workout logged! +1 day to ranking",
+  "setmana": "Week"
+}
